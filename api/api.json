@@ -1,0 +1,12 @@
+{
+    "airmap": {
+        "api_key": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjcmVkZW50aWFsX2lkIjoiY3JlZGVudGlhbHw0UEtQUktBU1phcFBXSkZZYUxLMEdUeDlxZW5QIiwiYXBwbGljYXRpb25faWQiOiJhcHBsaWNhdGlvbnwzTEJFNG9PdUJ2NjJKV1M0T2JMUFBDbm1RUHFiIiwib3JnYW5pemF0aW9uX2lkIjoiZGV2ZWxvcGVyfHlFWjl3RzVGMjgwTEdkQzlnUUpNUUYwRHY4bjciLCJpYXQiOjE1Mzc3MDg0NzZ9.4dy_syMAMs-1oQT5vyq7s3a20drbnbJ6WvUTtMK0PHg"
+    },
+    "auth0": {
+        "client_id": "wPn6jInBgY024F7po222J1w43uIGOSoQ",
+        "callback_url": null
+    },
+    "mapbox": {
+	"access_token": null
+    }
+}
